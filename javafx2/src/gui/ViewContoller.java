@@ -8,7 +8,7 @@ public class ViewContoller {
 	@FXML
 	private Button btTest;
 	
-	@FXML
+	@FXML 
 	public void btTestAction() {
 		System.out.println("Clique");
 	}
